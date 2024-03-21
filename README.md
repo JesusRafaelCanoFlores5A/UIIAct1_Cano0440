@@ -17,3 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+
+## UII Act1 Diseño FlutLab App Container BoxDecoration, Etc..
+## Cano 0440
+- Resultado
+- ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct1_Cano0440/assets/143547897/3933f6c4-9ae4-4ca6-982c-c6194497813c)
